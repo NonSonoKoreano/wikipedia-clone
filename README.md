@@ -1,5 +1,6 @@
 # WikipediaClone
-
+This is a Wikipedia Clone APP - it uses the API provided by Wikipedia to search and show result from searches.
+This app is in ITALIAN language.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
 
 ## Development server
